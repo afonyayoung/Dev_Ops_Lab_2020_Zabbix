@@ -1,4 +1,4 @@
-# ELK task 1
+# ELK task 2
 1. Before applying change `project` in `terraform.tfvars` 
 1. Set your GCP credentials as the environment variables:
     * export GOOGLE_CLOUD_KEYFILE_JSON=/path/to/file
