@@ -6,6 +6,6 @@
 1. Run `terraform apply`.
 1. To clean up and delete all resources after you're done, run `terraform destroy`.
 
-[Screenshots Day 1](Screenshots_Task1.pdf.pdf)
+[Screenshots Day 1](Screenshots_Task1.pdf)
 
-[Screenshots Day 2](Screenshots_Task2.pdf.pdf)
+[Screenshots Day 2](Screenshots_Task2.pdf)
